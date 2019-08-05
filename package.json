@@ -1,0 +1,20 @@
+{
+  "name": "checkercomp",
+  "version": "1.0.0",
+  "description": "A web component (Vue.js >= 2.5) that provides  multiple checkboxes of items with a check image.",
+  "main": "CheckerComp.vue",
+  "repository": "git+https://github.com/deandevl/CheckerComp.git",
+  "keywords": [
+    "Vue.js",
+    "CheckerComp"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/CheckerComp/issues"
+  },
+  "homepage": "https://github.com/deandevl/CheckerComp#readme",
+  "dependencies": {
+    "vue": "^2.5.9"
+  }
+}
